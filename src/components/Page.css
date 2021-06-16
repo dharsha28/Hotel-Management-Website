@@ -1,0 +1,291 @@
+.first-line{
+    background-color: #f19318fd;
+    margin: 0;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    font-size: 15px;
+}
+.nav-items{
+    background-color: white;
+    white-space: nowrap;
+}
+#prime-title{
+    font-size: 25px;
+    font-weight: 800;
+    color: #f19318fd;
+    padding-left: 100px;
+    padding-right: 690px;   
+}
+#navbarScroll{
+    color: black;
+    font-size: 17px;
+    font-weight: 500;
+}
+#shoppingcarticon{
+    background-color: #f19318fd;
+    padding: 6px 6px;
+    color: white;
+    width: 40px;
+    height: 30px;
+}
+#orders{
+    padding: 30px 50px;
+}
+#header-title{
+    padding:30px 50px;
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1em;
+}
+#deliver{
+    font-size: 55px;
+    color:#f19318fd;
+    line-height: 1em;
+}
+#header-title>span{
+    font-size: 40px;
+    color:#f19318fd ;
+}
+#order-content{
+    padding: 10px 50px;
+    font-size: 22px;
+    color: black;
+    font-weight: 700;
+    line-height: 1em;
+}
+#rating-star,#rating{
+    padding: 2px 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+#rate{
+    font-size: 20px;
+    font-weight: 700;
+    color: brown;
+}
+/****Products Contents******/
+#products{
+    padding: 60px;
+    background-color: rgb(243, 222, 182);
+    border: 1px solid gray;
+}
+#title{
+    padding:40px 50px;
+    color: #f19318fd;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 1em;
+}
+#main-content{
+    padding:50px 50px;
+    font-size: 22px;
+    color: black;
+    font-weight: 700;
+    line-height: 1em;
+}
+.more-button{
+    display: inline-block;
+    border-radius: 1px !important;
+    background-color: #f19318fd !important;
+    border: none;
+    color: white !important;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+    padding: 30px !important;
+    width: 250px;
+    height: 50px !important;
+    margin: 40px 50px !important;
+    text-transform: none !important;
+}
+/******Working data******/
+#work{
+    padding-bottom: 70px;
+}
+#work-title{
+    color:#f19318fd ;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    padding: 40px 5px;
+}
+#menu-img{
+    padding-left: 40px;
+}
+#delivery-img{
+    padding-right: 40px;
+}
+#menu-title{
+    font-size: 22px ;
+    font-weight: 700;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+#online-order-title{
+    font-size: 22px ;
+    font-weight: 700;
+    padding-left: 60px;
+    padding-top: 25px;
+}
+#delivery-title{
+    font-size: 22px ;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+#menu-content{
+    font-size: 17px ;
+    font-weight: 500;
+    padding-left: 100px;
+    padding-top: 40px;
+    padding-right: 10px;
+    line-height: 1.3em;
+}
+#online-order-content{
+    font-size: 17px ;
+    font-weight: 500;
+    padding-left: 70px;
+    padding-top: 40px;
+    padding-right: 15px;
+    line-height: 1.3em;
+}
+#delivery-content{
+    font-size: 17px ;
+    font-weight: 500;
+    padding: 40px 30px;
+    line-height: 1.3em;
+}
+/********Browse our menu*******/
+.browse-menu{
+    background-color: rgb(243, 222, 182);
+    border: 1px solid gray;
+}
+#browse-title{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    font-weight: 700;
+}
+#browse-content{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#ph{
+    text-decoration: underline;
+    color: red;
+}
+#items-list{
+    border: 2px ;
+    border-radius: 5px;
+    font: 500 22px black ;
+    font-family: unset;
+    text-transform:capitalize ;
+    background-color: rgb(250, 250, 81);
+}
+#container{
+    padding-top:30px ;
+    padding-bottom: 30px;
+}
+#first{
+    border: 2px solid grey;
+    border-radius: 3%;
+    background-color: white;
+    font-size: 15px;
+    margin: 10px 10px;
+    padding: 12px;
+}
+h6{
+    padding: auto;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+}
+.price{
+    color: red;
+    font-size: 14px;
+}
+#menu-img{
+    padding: 8px;
+}
+#content{
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    padding: 5px;
+}
+#addtocart-btn{
+    border-radius: 5px;
+    background-color: #f19318fd ;
+    color: white ;
+    font-size: 16px ;
+    width: 110px;
+    height: 30px ;
+    padding: auto;
+    text-transform: none; 
+}
+#full-menu{
+    border-radius: 5px;
+    background-color: #fa0404fd ;
+    color: white ;
+    font-size: 20px ;
+    font-weight: 600 ;
+    width: 250px;
+    height: 50px ;
+    padding: 6px 1px;
+    justify-content: center;
+    align-items: center;
+    text-transform: none; 
+}
+/*********Footer********/
+#footer{
+    padding-top: 100px;
+}
+#logo{
+    padding: 40px 200px;
+}
+#logo-content{
+    font-size: 13px;
+    font-weight: 700;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*.ftr-title{
+    padding-left: 20px;
+}*/
+#footer-subtitle{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 14px;
+    font-weight: 600;
+}
+li{
+    list-style: none;
+    line-height: 35px;
+    color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 14px;
+    font-weight: 600;
+}
+.flow{
+    color:#f19318fd  ;
+}
+#last{
+    padding-left: 70px;
+    padding-top: 150px;
+    font-size: 13px;
+    font-weight: 600 ;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#social-media{
+    padding-top: 150px;
+    display: inline-block; 
+}
+#TwitterIcon, #YouTubeIcon, #InstagramIcon{
+    border: 1px solid grey;
+    border-radius: 50%; 
+}
+ 
